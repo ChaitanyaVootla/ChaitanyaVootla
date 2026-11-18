@@ -42,5 +42,5 @@ Explore more of my work on [vootlachaitanya.com](https://vootlachaitanya.com/).
 
 ## 📩 **Get in Touch**
 
-chaitanyavootla@proton.me
+chaitanyavootla42@gmail.com
 
