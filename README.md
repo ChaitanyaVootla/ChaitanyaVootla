@@ -37,7 +37,7 @@ Built with Next.js, TypeScript, PostgreSQL + pgvector, LangGraph and AWS Bedrock
 ## 🧪 **Also building**
 
 - **Kosh**: a long-term portfolio companion for Indian markets. It reads my Zerodha holdings and shows XIRR, drawdown, the 200-day average and concentration. It has an MCP server so an agent can query the portfolio, and it never places a trade. Live for my own use at [stocks.vootlachaitanya.com](https://stocks.vootlachaitanya.com) (sign-in only).
-- **Pramāṇa**: Indian history, with the evidence attached. Every statement points to the exact words it rests on, in a source you can open. Agents work on it over MCP and can only propose changes; a person approves each one. Early MVP, runs locally.
+- **[Pramāṇa](https://pramana.vootlachaitanya.com)**: Indian history, with the evidence attached. Every statement points to the exact words it rests on, in a source you can open. Agents work on it over MCP, and every edit they make is a reviewed, logged proposal. Live and open to read. Source: [ChaitanyaVootla/pramana](https://github.com/ChaitanyaVootla/pramana)
 
 ---
 
