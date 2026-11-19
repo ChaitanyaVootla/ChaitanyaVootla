@@ -1,6 +1,6 @@
 # Hi, I'm Chaitanya! 👋
 
-Staff engineer at **[Faeth Therapeutics](https://www.faeththerapeutics.com)**. Mostly working on agents these days, with a day job in clinical-trial software. About ten years of full-stack product work before that, at JFrog and Shippable.
+Staff engineer at **[Faeth Therapeutics](https://www.faeththerapeutics.com)**, where I build AI agents for clinical trials. Most of the work is the harness around the model. About ten years of full-stack product work before that, at JFrog and Shippable.
 
 On the side I build **[The Movie Browser](https://themoviebrowser.com)** – a platform where movie enthusiasts can explore movies, get personalized recommendations, and find where to watch them online. I'm striving to make it the best movie site ever. 🎥🍿
 
@@ -8,9 +8,9 @@ On the side I build **[The Movie Browser](https://themoviebrowser.com)** – a p
 
 ## 🤖 **What I work on**
 
-- **Agent harnesses**: Where I spend most of my time. Task contracts, tool boundaries, traces, evals – the scaffolding that turns a demo into something you can actually rely on. LangGraph is where I work.
-- **Clinical trials**: Day job at Faeth. Trial-related apps where getting it wrong has real consequences, so the work skews toward correctness, audit trails, and not breaking things in prod.
-- **Full-stack**: Ten years of product work before this – frontends, services, the cloud bits, the database underneath.
+- **Agent harnesses**: What I build. Task contracts, tool boundaries, traces, evals – the scaffolding that turns a demo into something you can actually rely on. LangGraph is where I work.
+- **Clinical trials**: Where the agents run. At Faeth they pull structure out of trial protocols and help monitor trials in near real time. Getting it wrong has real consequences, so the work skews toward correctness, audit trails, and not breaking things in prod.
+- **Full-stack**: What it all stands on. Ten years of product work before this – frontends, services, the cloud bits, the database underneath.
 
 ---
 
@@ -31,6 +31,13 @@ On the side I build **[The Movie Browser](https://themoviebrowser.com)** – a p
 Built with Next.js, TypeScript, PostgreSQL + pgvector, LangGraph and AWS Bedrock. Source: [ChaitanyaVootla/movie-browser](https://github.com/ChaitanyaVootla/movie-browser)
 
 ✨ **Explore it live** [Visit The Movie Browser](https://themoviebrowser.com)
+
+---
+
+## 🧪 **Also building**
+
+- **Kosh**: a long-term portfolio companion for Indian markets. It reads my Zerodha holdings and shows XIRR, drawdown, the 200-day average and concentration. It has an MCP server so an agent can query the portfolio, and it never places a trade. Live for my own use at [stocks.vootlachaitanya.com](https://stocks.vootlachaitanya.com) (sign-in only).
+- **Pramāṇa**: Indian history, with the evidence attached. Every statement points to the exact words it rests on, in a source you can open. Agents work on it over MCP and can only propose changes; a person approves each one. Early MVP, runs locally.
 
 ---
 
